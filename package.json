@@ -1,0 +1,14 @@
+{
+  "name": "mcp-demo",
+  "version": "1.0.0",
+  "description": "A demo for MCP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "zod": "^3.24.3"
+  },
+  "type": "module"
+}

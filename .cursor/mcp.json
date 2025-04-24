@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "getUserDetails": {
+            "command": "node",
+            "args": [
+                "/var/www/html/mcp-demo/index.js"
+            ]
+        }
+    }
+}
