@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Ruchit Patel",
+        "joining_date": "2013-08-05",
+        "experience": "11 Years 8 Months",
+        "availability": "Not Available",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Redis",
+            "Design Code Architecture",
+            "Solution Architect"
+        ]
+    },
+    {
+        "name": "Sahil Darji",
+        "joining_date": "2016-01-18",
+        "experience": "9 Years 3 Months",
+        "availability": "Not Available",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Redis",
+            "Design Code Architecture",
+            "Socket",
+            "Docker",
+            "CI/CD"
+        ]
+    },
+    {
+        "name": "Dhaval Joshi",
+        "joining_date": "2014-12-02",
+        "experience": "10 Years 4 Months",
+        "availability": "Partial",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Redis",
+            "Design Code Architecture",
+            "JQuery",
+            "JavaScript",
+            "WP",
+            "Socket",
+            "Sophify"
+        ]
+    },
+    {
+        "name": "Shailesh Jakhaniya",
+        "joining_date": "2017-03-01",
+        "experience": "8 Years 1 Months",
+        "availability": "Not Available",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Redis",
+            "Design Code Architecture",
+            "Livewire",
+            "Socket"
+        ]
+    },
+    {
+        "name": "Haresh Sisodiya",
+        "joining_date": "2015-07-14",
+        "experience": "9 Years 9 Months",
+        "availability": "Not Available",
+        "skills": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "Redis",
+            "Design Code Architecture"
+        ]
+    },
+    {
+        "name": "Anurag Trivedi",
+        "joining_date": "2020-01-02",
+        "experience": "5 Years 3 Months",
+        "availability": "Not Available",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Livewire (Intermediate)",
+            "JQuery",
+            "MongoDB"
+        ]
+    },
+    {
+        "name": "Urvin Sanghavi",
+        "joining_date": "2019-06-01",
+        "experience": "5 Years 10 Months",
+        "availability": "Not Available",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "JQuery"
+        ]
+    },
+    {
+        "name": "Vinay Prajapati",
+        "joining_date": "2017-02-14",
+        "experience": "8 Years 2 Months",
+        "availability": "Full Time",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Livewire (Intermediate)",
+            "JQuery",
+            "MongoDB",
+            "Vue JS"
+        ]
+    },
+    {
+        "name": "Vikas Diwakar",
+        "joining_date": "2020-12-14",
+        "experience": "4 Years 4 Months",
+        "availability": "Not Available",
+        "skills": [
+            "Laravel",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "Bharat Khairnar",
+        "joining_date": "2015-06-09",
+        "experience": "9 Years 10 Months",
+        "availability": "Full Time",
+        "skills": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "jQuery",
+            "Javascript",
+            "ReactJS (Intermediate)",
+            "Vue JS (Intermediate)"
+        ]
+    },
+    {
+        "name": "Mukund Parekh",
+        "joining_date": "2022-10-03",
+        "experience": "2 Years 6 Months",
+        "availability": "Partial",
+        "skills": [
+            "Laravel",
+            "MySQL",
+            "Jquery"
+        ]
+    },
+    {
+        "name": "Sunil Malviya",
+        "joining_date": "2018-01-02",
+        "experience": "7 Years 3 Months",
+        "availability": "Full Time",
+        "skills": [
+            "Wordpress",
+            "MySQL",
+            "AJAX(WP)",
+            "HTML",
+            "CSS",
+            "jquery"
+        ]
+    },
+    {
+        "name": "Kishan Variya",
+        "joining_date": "2019-07-02",
+        "experience": "5 Years 9 Months",
+        "availability": "Partial",
+        "skills": [
+            "Wordpress",
+            "MySQL",
+            "HTML",
+            "CSS"
+        ]
+    }
+]
